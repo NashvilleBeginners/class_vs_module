@@ -1,6 +1,7 @@
 # Class vs Module in Ruby
 
 
+
 [source](http://stackoverflow.com/a/9778021/1254263)
 
 
